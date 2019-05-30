@@ -5,8 +5,9 @@ def roll_call_dwarves(dwarves)
   end
 end
 
-def summon_captain_planet# code an argument here
+def summon_captain_planet(planeteers)
   # Your code here
+  planeteers.map { |planeteer| planeteer.ca
 end
 
 def long_planeteer_calls# code an argument here
